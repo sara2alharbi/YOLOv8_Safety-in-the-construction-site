@@ -10,6 +10,9 @@ Ensuring safety and security in facilities is paramount. I recently embarked on 
 ## Dataset Preparation: 
 Collected and annotated images of potential security threats and safety hazards using Roboflow. Applied data augmentation to enhance the dataset.
 
+## Model Training: 
+Trained the YOLOv8 model with the prepared dataset.
+
 * The YOLOv8 model achieved impressive performance metrics:
 
   Overall Performance: Precision: 0.78, Recall: 0.772, mAP50: 0.829.
@@ -27,6 +30,3 @@ Collected and annotated images of potential security threats and safety hazards 
   Vest: Precision: 0.838, Recall: 0.865, mAP50: 0.893.
 
 These results show the system's capability to accurately detect safety gear and identify compliance issues, which is crucial for maintaining high safety standards in facilities.
-
-## Model Training: 
-Trained the YOLOv8 model with the prepared dataset. 
