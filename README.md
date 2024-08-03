@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/1654b94a-6df8-4970-903d-27b19d13f42a
+
 # YOLOv8 Object Detection (safety in the construction site)
 
 ## Project Overview:
